@@ -1,0 +1,7 @@
+Instead of focusing on the return process, you will be focusing on how to improve the purchasing process of their membership program.
+You need to define what are the most insightful metrics that you need to include to provide a comprehensive deep dive of the purchasing experience 
+for your manager who is presenting to the board. You have received no specific guidance on what metrics to consider. 
+
+Business has a monthly business review to report on business performance and you are wondering if it makes sense to have a monthly report for your manager. 
+A successful purchase results in a successful checkout. Customers that do not complete a purchase but keep products in their shopping cart affect
+our abandoned cart metric.
