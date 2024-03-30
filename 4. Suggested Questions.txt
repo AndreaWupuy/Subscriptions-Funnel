@@ -1,0 +1,9 @@
+Answer the following questions:
+
+•	I have heard from customer support that we have a very large number of customers that complain about errors
+when trying to buy our membership. What’s going on? 
+
+•	Do we need to improve the checkout process? If so, what do we do?
+
+•	I need a monthly analysis for the board for tomorrow. Do we have any seasonality or any other trends I need 
+to be aware of?
