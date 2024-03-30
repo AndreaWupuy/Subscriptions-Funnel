@@ -1,0 +1,17 @@
+Currently the company offers different types of subscriptions for their different users’ needs such as one-medical, prime video movies and gift cards. 
+The most popular subscription types are annual and monthly, accounting for 92.48% of total checkouts. According to customer service there seems to 
+be a problem when customers try to make a purchase. The purpose of the report is to determine whether the error is a user or business issue.
+
+According to the analyze data, only 34.56% of the customers make it to the checking section, the rate is not unusual for the company as the membership 
+services are very popular. Based on the analysis, 68.34% of the users that go to the checkout section receive an error message. It is estimated that 
+69% of the 2962 total errors are mainly due to user mistakes, such as the number field, the year and the last name not being filled out correctly, 
+each of which has 1220, 684 and 148 errors.
+
+There are several ways to ensure the user experience is smothered when purchasing membership. During digitization of the card information, pop-out 
+messages could show that there is a missing field. Or there could be a progress bar on top to show how much of the payment information needed is 
+completed. Another option may be to add functionality where users can scan their card to the website/app or add a digital wallet. In that way, the 
+payment process would be more efficient and human typing mistakes could be avoided.
+
+Additionally, there were some concerns about the existence of seasonality in the data. It is safe to say that with the data given, there is no 
+indication of seasonal trends. Nevertheless, November is the peak month for errors with 1702. This may be because of Black Friday deals where users 
+are looking to get the most discounts possible even if that means subscribing to a membership. 
